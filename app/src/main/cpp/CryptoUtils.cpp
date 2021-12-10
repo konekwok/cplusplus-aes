@@ -11,7 +11,7 @@
 #include <string>
 using namespace std;
 
-const char g_key[] = "e81wolan12dfw31f";
+const char g_key[] = "asdfgiqkelofdaks";
 const char g_iv[17] = "gfdertfghjkuyrtg";//ECB MODE不需要关心chain，可以填空
 string Encrypt(const string& strSrc) //AES加密
 {
